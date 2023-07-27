@@ -100,7 +100,7 @@ export default function Home() {
             </svg>
           </a>
         </div>
-        <p className="text-white text-center">Mcl</p>
+        <p className="text-white text-center">Get the app</p>
       </div>
     </div>
   );
