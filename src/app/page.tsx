@@ -100,10 +100,7 @@ export default function Home() {
             </svg>
           </a>
         </div>
-        <p className="text-white text-center">
-  <a href="https://mcl.pages.dev/"
-    onclick="window.location.href = this.href;">McL</a>
-</p>
+        <p className="text-white text-center">Get the app</p>
       </div>
     </div>
   );
