@@ -306,7 +306,7 @@ export default function AppWrapper({
                 <div className="flow-root text-center inline pt-4">
                   <div className="flex-2">
                     <div className="text-sm leading-6 font-medium text-gray-600">
-                      <a href="https://github.com/stevenlafl/threads-web-client" target="_blank">threads-web-client</a>
+                      <a href="https://mcldg.fun/" target="_blank">McL</a>
                       { version && 
                         <div className={ version['update'] ? 'text-red-400' : ''}>
                           current: { version['current'] } | latest: { version['latest'] }
