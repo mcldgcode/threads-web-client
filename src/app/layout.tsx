@@ -38,7 +38,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>Threads, an Instagram app Web Client</title>
+        <title>Threads, an Instagram app</title>
         <meta name="description" content="A Next.JS desktop web client for Meta's Instagram Threads" />
       </head>
       <body
